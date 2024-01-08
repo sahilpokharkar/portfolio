@@ -33,7 +33,7 @@ This is my personal portfolio website showcasing my skills, projects, and profes
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/portfolio.git`
+1. Clone the repository: `https://github.com/sahilpokharkar/portfolio.git`
 2. Navigate to the project directory: `cd portfolio`
 
 ## Usage
